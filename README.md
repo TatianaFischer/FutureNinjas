@@ -24,7 +24,7 @@ A proposta do **FutureNinjas** da [Labenu](https://labenu.com.br/) é desenvolve
 
 Este projeto de Front-end Web foi desenvolvido em ReactJS com JS.
 
-
+> Status do Projeto: Em desenvolvimento :warning:
 
 ---
 
@@ -35,12 +35,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [ReactJS](https://reactjs.org/)
 
 ### Dependências
-
-- ✨ [Apolished](https://polished.js.org/)
-- :clock2: [Date FNS](https://date-fns.org/)
-- :sparkles: [Polished](https://polished.js.org/)
-- [React Icons](https://react-icons.github.io/react-icons/)
-- [React Router DOM](https://github.com/ReactTraining/react-router#readme)
 - [React-Toastify](https://fkhadra.github.io/react-toastify/introduction)
 - :nail_care: [Styled Components](https://styled-components.com/)
 - Materia UI
