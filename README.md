@@ -6,7 +6,7 @@
 <p align="center">
   <img alt="Gif da Aplicação" src="./src/components/Header/ImgNinja.png" />
 </p>
-
+<img src="./futureNinjas.gif"/>
 ---
 
 # Indice
@@ -24,7 +24,7 @@ A proposta do **FutureNinjas** da [Labenu](https://labenu.com.br/) é desenvolve
 
 Este projeto de Front-end Web foi desenvolvido em ReactJS com JS.
 
-> Status do Projeto: Em desenvolvimento :warning:
+Projeto feito em grupo.
 
 ---
 
